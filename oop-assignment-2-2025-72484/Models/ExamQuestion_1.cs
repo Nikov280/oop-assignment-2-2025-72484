@@ -12,7 +12,7 @@ namespace oop_assignment_2_2025_72484.Models
             Console.WriteLine("Exam Question 1 executed.");
             SampleQuestionAMethod();
             SampleQuestionBMethod();
-            Console.WriteLine(GetDiscountPercentage("Bronze"));
+            Console.WriteLine(GetDiscountPercentage("Platinum"));
         }
         public static void SampleQuestionAMethod()
         {
